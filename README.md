@@ -1,6 +1,10 @@
 # 🎭 Tiyatro Oyunu Chatbot - RAG Uygulaması
 
 Tiyatro oyunu hakkında bilgi veren ve kullanıcı sorularını yanıtlayan akıllı chatbot uygulaması. LangChain RAG (Retrieval-Augmented Generation) mimarisi kullanılarak geliştirilmiştir.
+## Çalışır Haldeki Video
+
+https://github.com/user-attachments/assets/a254545b-1541-4a8c-b908-b72de53d988b
+
 
 ## Proje Hakkında
 
